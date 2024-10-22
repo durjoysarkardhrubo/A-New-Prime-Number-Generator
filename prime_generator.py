@@ -20,4 +20,4 @@ for j in range(2, n + 1):
 
 print(f"\nSum of all prime numbers below {n} is {s}.")
 new_prime = p + 1
-print(f"The new prime candidate (p + 1) is {new_prime}.")
+print(f"The new prime candidate is {new_prime}.")
