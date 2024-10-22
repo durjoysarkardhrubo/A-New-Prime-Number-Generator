@@ -17,3 +17,5 @@ This project is a simple Python program to generate all prime numbers below a gi
    ```bash
    git clone https://github.com/your-username/prime-generator.git
    cd prime-generator
+
+https://colab.research.google.com/drive/1oyA9SFCVSkCMqmbonuhSgkSAeCupCzzd?usp=sharing
